@@ -98,6 +98,6 @@ const SuccessStories = () => {
       </section>
     </div>
   );
-};
+};  
 
 export default SuccessStories;
